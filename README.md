@@ -1,2 +1,2 @@
 # metadata
-generate metadata automatically
+generate metadata automatically for test
